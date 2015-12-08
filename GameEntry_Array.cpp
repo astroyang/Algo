@@ -89,6 +89,8 @@ int main(){
 	t=s.remove(0);
 	cout<<t.getScore()<<t.getName()<<endl;
 
+
+
 	return 0;
 
 }
